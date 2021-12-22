@@ -38,7 +38,7 @@ We are not accepting any contributions to this project.
 This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ## <a name="ref"> </a> References
-[1] Kernel Principal Component Analysis Using SAS: Kai Shen and Zohreh Asgharzadeh, SAS Institute Inc., URL: https://support.sas.com/content/dam/SAS/support/en/technical-papers/iot/kpca-technical-report.pdf
+[1] Kernel Principal Component Analysis Using SAS: Kai Shen and Zohreh Asgharzadeh, SAS Institute Inc., URL: https://support.sas.com/content/dam/SAS/support/en/technical-papers/kpca-technical-report.pdf
 
 [2] <a name="uci"> </a> UCI Machine Learning repository : https://archive.ics.uci.edu/ml/index.
 
