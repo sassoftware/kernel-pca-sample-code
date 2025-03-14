@@ -1,3 +1,5 @@
+This project is no longer under active development and was archived 2025-03-14.
+
 # Kernel PCA Sample Code
 
 ## Overview
